@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aosmangokcan
-- 👀 I’m interested in ANN with MATLAB
-- 🌱 I’m currently learning artificial neural networks
-- 💞️ I’m looking to collaborate on MATLAB
-- 📫 How to reach me mail@aliosmangokcan.com
+- 👋 Hello, I'm @aosmangokcan
+- 👀 I work on Deep Learning, Machine Learning and Optimization Algorithms with MATLAB and Python.
+- 💞️ I want to collaborate on studies on Energy Systems Engineering.
+- 📫 How can you reach me mail@aliosmangokcan.com
 
 <!---
 aosmangokcan/aosmangokcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
