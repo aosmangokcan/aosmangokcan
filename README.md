@@ -1,7 +1,7 @@
-- 👋 Hello, I'm @aosmangokcan
-- 👀 I work on Deep Learning, Machine Learning and Optimization Algorithms with MATLAB and Python.
-- 💞️ I want to collaborate on studies on Energy Systems Engineering.
-- 📫 How can you reach me mail@aliosmangokcan.com
+- 👋 Hello, I'm @aosmangokcan  
+- 👀 I work on Deep Learning, Machine Learning, and Optimization Algorithms using MATLAB and Python.  
+- 💞️ I'm open to collaborations on studies related to Energy Systems Engineering.  
+- 📫 You can reach me at: mail@aliosmangokcan.com
 
 <!---
 aosmangokcan/aosmangokcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
